@@ -23,7 +23,7 @@
 <br />
 
 [facebook]: https://facebook.com/dipesh.stha.18
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/deep_es_sence
+[youtube]: https://www.youtube.com/channel/UCJ6QAu-YES5jV8wbpLUN4AQ
+[instagram]: https://www.instagram.com/deep_es_sence347/
+[linkedin]: https://www.linkedin.com/in/dipesh-shrestha-949780197/
