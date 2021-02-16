@@ -8,11 +8,11 @@
 - 🇳🇵 I'm from Kathmandu, Nepal.
 - 📨 Currently interested in Freelancing.
 - 💬 Email me: ds.ed347@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Sorry, I ain't fun. 🙈
 
 ### Find me at:
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+<!--[<img align="left" alt="Dipesh Shrestha | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Dipesh Shrestha | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Dipesh Shrestha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Dipesh Shrestha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
