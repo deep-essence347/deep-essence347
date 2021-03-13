@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Node.Js or Flutter Projects.
 - 📫 Books bore me.
 - 🇳🇵 I'm from Kathmandu, Nepal.
-- 📨 Currently interested in Freelancing.
+<!-- - 📨 Currently interested in Freelancing. -->
 - 💬 Email me: ds.ed347@gmail.com
 - ⚡ Fun fact: Sorry, I ain't fun. 🙈
 
