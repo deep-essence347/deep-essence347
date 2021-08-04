@@ -13,11 +13,13 @@
 ### Find me at:
 
 <!--[<img align="left" alt="Dipesh Shrestha | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Dipesh Shrestha | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Dipesh Shrestha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Dipesh Shrestha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dipesh Shrestha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Dipesh Shrestha | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<a target="_blank" href ="mailto:ds.ed437@gmail.com" alt ="Gmail"> <img align="left" alt="Dipesh Shrestha | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a target="_blank" href ="https://facebook.com/dipesh.stha.18" alt ="Facebook"> <img align="left" alt="Dipesh Shrestha | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a target="_blank" href ="https://www.instagram.com/deep_es_sence347/" alt ="Instagram"><img align="left" alt="Dipesh Shrestha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a target="_blank" href ="https://www.linkedin.com/in/dipesh-shrestha-949780197/" alt ="LinkedIn"><img align="left" alt="Dipesh Shrestha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a target="_blank" href ="https://twitter.com/deep_es_sence" alt ="Twitter"><img align="left" alt="Dipesh Shrestha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a target="_blank" href ="https://www.youtube.com/channel/UCJ6QAu-YES5jV8wbpLUN4AQ" alt ="Youtube"><img align="left" alt="Dipesh Shrestha | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 
 <br />
 <br />
