@@ -8,7 +8,7 @@
 - 🇳🇵 I'm from Kathmandu, Nepal.
 <!-- - 📨 Currently interested in Freelancing. -->
 - 💬 Email me: ds.ed347@gmail.com
-- ⚡ Fun fact: Sorry, I ain't fun. 🙈
+<!-- - ⚡ Fun fact: Sorry, I ain't fun. 🙈 -->
 
 ### Find me at:
 
